@@ -1,0 +1,19 @@
+# Probe outputs
+probes/out/
+*.pcap
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
